@@ -1,22 +1,12 @@
 {
-  "name" : "d3-tooltip", 
-  "version" : "0.0.1",
-  "description" :"This is a d3 tooltip component.",
-  "homepage" : "",
-  "repository" : {
-    "type" : "git", 
-    "url" : ""
-  },
-  "keywords" : ["d3", "browserify", "component"],
-  "author" : "JP Richardson <jprichardson@gmail.com>",
-  "licenses" : [ {
-    "type" : "MIT",
-    "url" : ""
-  }],
-  "dependencies" : {},
-  "devDependencies":{},
-  "main" : "./lib/d3-tooltip.js",
-  "scripts": {
-    "test": "mocha test"
-  }
+  "name": "jprichardson-d3-tooltip",
+  "description": "JThis is a d3 tooltip component.",
+  "version": "0.0.1",
+  "keywords": [
+    "d3",
+    "browserify",
+    "component"
+  ],
+  "main": "lib/d3-tooltip.js",
+  "dependencies": {}
 }
